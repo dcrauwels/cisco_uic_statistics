@@ -1,5 +1,5 @@
 # Cisco Unified Intelligence Center Statistics
-This tiny library provides a few Python functions for importing and interpreting call data from the Cisco Unified Intelligence Center (UIC). Call data exported from UIC are saved as large .xlsx files detailing (at its most granular) half an hour's worth of call data. 
+This tiny Python library provides a few functions for importing and interpreting call data from the Cisco Unified Intelligence Center (UIC). Call data exported from UIC are saved as large .xlsx files detailing (at its most granular) half an hour's worth of call data. 
 For call center managers, it may be relevant to visualize data and check statistics on what months, days of the week and times of day are busiest to adjust personnel allocation accordingly.
 
 ## Requirements
