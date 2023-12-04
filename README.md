@@ -6,6 +6,7 @@ For call center managers, it may be relevant to visualize data and check statist
 - Python 3.10 or higher
 - Pandas
 - Numpy
+
 A standard [Anaconda](https://www.anaconda.com/) installation will suffice for all of the above.
 
 ## Usage
